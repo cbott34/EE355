@@ -1,0 +1,6 @@
+Q5: Assumed that user will input array sizes along with entry of elements in sorted manner. 
+Referenced https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/ for getMedian function.
+
+Q6: I believe this program works in all cases as long as x & y are int type. 
+
+Q7: Referenced https://www.geeksforgeeks.org/a-product-array-puzzle/ for product function
